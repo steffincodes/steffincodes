@@ -8,6 +8,8 @@ I'm a Computer Science Graduate with a degree in Finance. I like to experiment i
 
 <br/>
 
+## Let's Connect 🤝🏼
+
 [![Instagram](https://img.shields.io/badge/-steffin.rayen-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/steffin.rayen/)](https://www.instagram.com/steffin.rayen/) 
 [![Instagram](https://img.shields.io/badge/-steffincodes-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/steffincodes/)](https://www.instagram.com/steffin.rayen/) 
 [![Twitter](https://img.shields.io/badge/-steffin_codes-blue?style=flat-square&logo=Twitter&link=twitter.com/steffin_codes)](twitter.com/steffincodes)
@@ -18,8 +20,11 @@ I'm a Computer Science Graduate with a degree in Finance. I like to experiment i
 ## 📌 Pinned repos 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=steffincodes&repo=devlog&theme=buefy)](https://github.com/steffincodes/devlog)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=steffincodes&repo=kitchenette&theme=buefy)](https://github.com/steffincodes/kitchenette)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=steffincodes&repo=data-scribbles&theme=buefy)](https://github.com/steffincodes/data-scribbles)
 
 ---
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=steffincodes&show_icons=true&hide=contribs,stars&theme=buefy?count_private=true)
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=steffincodes&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) -->
+
